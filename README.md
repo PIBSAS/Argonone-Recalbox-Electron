@@ -6,6 +6,7 @@ A fix to get working Off and fan working in Recalbox 8
 Power on Recalbox, once booted press `F4` then `ALT+F2`.
 Login with:
 `root`
+
 `recalboxroot` Yoy can't see what are you typing, so be precise or retry till you get sucess.
 Once logged type 
 `cd /`
@@ -20,10 +21,13 @@ argonone-config
 ```
 Answer `Y` then `2` and put in numbers the minimum, medium and high temperature to make the fan works. By default came with an example for:
 1st temp: `55`
+
 2nd temp: `60`
+
 3rd temp: `65`
 
 Done! Now type:
+
 `reboot`
 
 And all will works!!!
