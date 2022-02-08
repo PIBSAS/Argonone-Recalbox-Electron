@@ -2,7 +2,7 @@
 
 A fix to get working, Off Button and fan cooler working in Recalbox 8
 
-#Instructions:
+# Instructions:
 
 Power on Recalbox, once booted press `F4` then `ALT+F2`.
 
