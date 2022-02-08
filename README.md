@@ -43,3 +43,5 @@ Done! Now type:
 `reboot`
 
 And all will works!!!
+
+NOTE: You can make this from your Android phone/PC/Iphone/Another Raspberry Pi with any SSH program. So you can just copy and paste the long curl line.
