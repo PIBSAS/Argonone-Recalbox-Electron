@@ -9,7 +9,7 @@ Login with:
 
 `root`
 
-`recalboxroot` Yoy can't see what are you typing, so be precise or retry till you get sucess.
+`recalboxroot` You can't see what are you typing, so be precise or retry till you get sucess.
 
 Once logged type:
 
