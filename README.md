@@ -1,5 +1,6 @@
 # Argonone-Recalbox-Electron by Raspberry Pi Buenos Aires
-A fix to get working Off and fan working in Recalbox 8
+
+A fix to get working, Off Button and fan cooler working in Recalbox 8
 
 #Instructions:
 
