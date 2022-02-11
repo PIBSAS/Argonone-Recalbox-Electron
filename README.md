@@ -5,11 +5,11 @@ Pitch64: https://forum.recalbox.com/topic/25351/recalbox-8-0-beta/2
 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
+<img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500"><img src="https://github.com/Luciano2018/Argonone-Recalbox-Electron/blob/main/logocase.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
+<img src="https://github.com/Luciano2018/Argonone-Recalbox-Electron/blob/main/logocase.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 # Instructions:
 
