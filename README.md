@@ -1,6 +1,7 @@
-# Argonone-Recalbox-Electron by Raspberry Pi Buenos Aires
-
+# Argonone-Recalbox-Electron Thanks to Pitch64
 A fix to get working, Off Button and fan cooler working in Recalbox 8
+
+Pitch64: https://forum.recalbox.com/topic/25351/recalbox-8-0-beta/2
 
 # Instructions:
 
@@ -19,7 +20,7 @@ Once logged type:
 Then this line without errors:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/Argonone-Recalbox-Electron/master/argonone-recalbox-electron.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/Argonone-Recalbox-Electron/master/argonone-Recalbox-Electron-by-Pitch64.sh | bash
 ```
 
 You will see the smBus error, don't worry is normal and will be fix it after reboot.Now press `Enter`and type:
