@@ -8,7 +8,7 @@ Pitch64: https://forum.recalbox.com/topic/25351/recalbox-8-0-beta/2
 <img src="https://raw.githubusercontent.com/Luciano2018/RetroPieBios/master/logov3.png" alt="Raspberry Pi Buenos Aires" width="400" height="500"><img src="https://github.com/Luciano2018/Argonone-Recalbox-Electron/blob/main/logocase.png" alt="Raspberry Pi Buenos Aires" width="400" height="500">
 </p>
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/raspberrypibsas)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/lucianoraspberrypi)
 
 # Instructions:
 
